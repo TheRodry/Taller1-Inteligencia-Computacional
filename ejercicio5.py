@@ -5,6 +5,7 @@ Created on Wed Mar  2 20:21:42 2022
 @author: rodri
 """
 
+hola=0
 Alumnosr=int(input("digite lña cantidad alumnos en la clase de redes: "))
 Alumnosc=int(input("digite lña cantidad alumnos en la clase de contabilidad: "))
 Alumnosd=int(input("digite lña cantidad alumnos en la clase de diseño: "))
